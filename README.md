@@ -1,0 +1,1 @@
+Your assignment, if you choose to accept it, is to write a simple JavaScript app allowing you to keep track of your collection of… whatever it is that you’re collecting. In the screenshots below we’ll use books as an example. The core of the app is an editable table with your stuff. In the beginning, the table is empty and there is a button allowing you to add a new item.
